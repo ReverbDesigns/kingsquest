@@ -1,14 +1,6 @@
 # kings quest draw canvas ex
 
-## technologies
-
-- react.js
-- socket.io
-- canvas
-- express
-- SCSS
-
-# Getting started
+#to run
 
 Clone the repo onto your local machine
 
