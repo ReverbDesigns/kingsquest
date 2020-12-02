@@ -1,3 +1,0 @@
-# Chat function
-
-backend
